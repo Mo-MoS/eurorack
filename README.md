@@ -1,7 +1,7 @@
 # eurorack
 Modules for Eurorack systems
 
-![MoMoS simple Mix](pics/mixer_4ch_module_small.jpg)
+![Modules overview](pics/overview_1_small.jpg)
 
 ## simpleMix v1.0
 ![simpleMix v1.0 Front](pics/simpleMix_front_v1.0.jpg)
